@@ -1,4 +1,5 @@
 IBM Front-End Developer Professional Certificate
+
 Welcome to the repository for my IBM Front-End Developer Professional Certificate on Coursera! This repository showcases my learning journey, projects, and achievements throughout the duration of the certificate program.
 
 Certificate Overview
